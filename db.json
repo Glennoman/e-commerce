@@ -1,0 +1,9 @@
+{
+    "products": [
+      { "id": 1, "name": "Fall Limited Edition Sneaker", "price": 125, "imageKey": "product1TN" },
+      { "id": 2, "name": "Limited Edition Sneaker", "price": 150, "imageKey": "product2TN" },
+      { "id": 3, "name": "Fall Limited Edition Sneaker", "price": 125, "imageKey": "product3TN" },
+      { "id": 4, "name": "Fall Limited Edition Sneaker", "price": 125, "imageKey": "product4TN" }
+    ],
+    "cart": []
+  }
